@@ -1,0 +1,28 @@
+﻿Week 1
+H: Vikings   A: Hawks
+H: Falcons   A: Eagles
+
+
+Week 2
+H: Eagles    A: Falcons
+H: Hawks     A: Vikings
+
+
+Week 3
+H: Hawks     A: Falcons
+H: Eagles    A: Vikings
+
+
+Week 4
+H: Hawks     A: Eagles
+H: Falcons   A: Vikings
+
+
+Week 5
+H: Vikings   A: Falcons
+H: Eagles    A: Hawks
+
+
+Week 6
+H: Falcons   A: Hawks
+H: Vikings   A: Eagles
